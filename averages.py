@@ -25,6 +25,8 @@ def main():
 
     print("\nThe average of the numbers is: {0}".format(average))
 
+    print("\nDone.")
+
 
 if __name__ == "__main__":
     main()
